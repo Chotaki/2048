@@ -1,0 +1,6 @@
+﻿  2048.cpp
+C:\Users\benja\source\repos\2048\2048\Grid.h(5,8): error C2143: erreur de syntaxe : absence de ';' avant '<'
+C:\Users\benja\source\repos\2048\2048\Grid.h(5,8): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\benja\source\repos\2048\2048\Grid.h(5,19): error C2238: jetons inattendus avant ';'
+C:\Users\benja\source\repos\2048\2048\Case.h(1,12): error C2011: 'Case' : redéfinition du type 'class'
+C:\Users\benja\source\repos\2048\2048\Case.h(1,7): message : voir la déclaration de 'Case'
